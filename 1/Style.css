@@ -1,13 +1,17 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(24, 13, 13);
     }
     
     h1 {
     color: white;
     text-align: center;
     }
-    
+    h2 {
+    color: azure;
+    text-align: center;    
+    }
     p {
+    color: beige;
     font-family: verdana;
     font-size: 20px;
     }
